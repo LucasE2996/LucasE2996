@@ -17,7 +17,7 @@
 
 ## Main Technologies
 
-<div style="margin:auto;width:70%;display:flex;justify-content:space-between;align-items:center">
+<div style="margin:auto;width:70%;display:flex;justify-content:space-between;align-items:center" align="center">
   <img title="Java" alt="java" src="img/java-brands.svg" width="50" height="50" />
   <img title="Javascript" alt="js" src="img/js-square-brands.svg" width="50" height="50" />
   <img title="CSS" alt="css" src="img/css3-alt-brands.svg" width="50" height="50" />
