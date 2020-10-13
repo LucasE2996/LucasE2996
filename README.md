@@ -17,4 +17,14 @@
 
 ## Main Technologies
 
-
+<div style="margin:auto;width:70%;display:flex;justify-content:space-between;align-items:center">
+  <img alt="java" src="img/java-brands.svg" style="width:50px;height:50px;" />
+  <img alt="js" src="img/js-square-brands.svg" style="width:50px;height:50px;" />
+  <img alt="css" src="img/css3-alt-brands.svg" style="width:50px;height:50px;" />
+  <img alt="html" src="img/html5-brands.svg" style="width:50px;height:50px;" />
+  <img alt="node" src="img/spring-boot.svg" style="width:50px;height:50px;" />
+  <img alt="node" src="img/node-js-brands.svg" style="width:50px;height:50px;" />
+  <img alt="react" src="img/react-brands.svg" style="width:50px;height:50px;" />
+  <img alt="angular" src="img/angular-brands.svg" style="width:50px;height:50px;" />
+  <img alt="psqlß" src="img/Postgresql_elephant.svg" style="width:50px;height:50px;" />
+</div>
